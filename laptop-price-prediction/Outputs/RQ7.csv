@@ -1,6 +1,0 @@
-Criterion,Linear Regression,Random Forest,XGBoost,SVM,Selected Model
-Predictive Performance,Medium,High,Very High,Medium,Random Forest / XGBoost
-Interpretability,High,Medium,Medium-Low,Medium,Linear Regression / Random Forest
-Robustness,Medium,High,High,Medium,Random Forest / XGBoost
-Computational Cost,Low,Medium,High,Medium,Linear Regression
-Deployment Suitability,High,High,Medium,Medium,Random Forest
