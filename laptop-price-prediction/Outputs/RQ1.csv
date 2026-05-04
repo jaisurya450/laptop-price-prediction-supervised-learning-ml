@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R²,Notes
+Linear Regression,292.92,432.81,0.63,Baseline
+Decision Tree,216.56,358.93,0.75,Nonlinear
+KNN,189.7,334.96,0.78,Instance-based

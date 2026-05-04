@@ -1,0 +1,11 @@
+Rank,Feature Name,Importance Score,Effect,Domain Interpretation
+1,TypeName_Notebook,0.307,Positive,Notebook category strongly influences laptop price prediction
+2,Ram_16GB,0.09,Positive,Higher RAM capacity increases predicted price
+3,Inches,0.088,Positive,Screen size affects laptop pricing
+4,Ram_32GB,0.061,Positive,Very high RAM is linked with premium laptop price
+5,Ram_4GB,0.06,Positive,Lower RAM category affects budget laptop pricing
+6,Memory_512GB SSD,0.016,Positive,SSD storage improves performance and price value
+7,Gpu_Nvidia GeForce GTX 1070,0.016,Positive,Powerful GPU increases predicted laptop price
+8,Ram_8GB,0.015,Positive,Standard RAM level influences mid-range pricing
+9,TypeName_Workstation,0.013,Positive,Workstation type is associated with higher professional-use pricing
+10,Product_XPS 15,0.013,Positive,Premium product model contributes to higher predicted price
