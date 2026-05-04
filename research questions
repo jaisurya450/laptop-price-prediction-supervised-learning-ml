@@ -1,7 +1,0 @@
-How well do baseline machine learning models predict laptop prices using key product specifications?
-How does the performance of advanced regression models compare in predicting laptop prices using key product specifications?
-What is the impact of different preprocessing strategies on the accuracy of laptop price prediction models?
-What are the most important features influencing laptop price prediction, and how can their impact be interpreted?
-How do different evaluation metrics influence the ranking of machine learning models in predicting laptop prices?
-How robust and generalizable is the model when exposed to variations such as cross-validation, noise, and missing data?
-Which machine learning model is most suitable for laptop price prediction when considering multiple decision criteria such as performance, interpretability, robustness, and deployment feasibility?
